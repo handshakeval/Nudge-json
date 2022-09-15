@@ -24,8 +24,8 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT211896"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2021-02-28T00:00:00Z",
+      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "requiredInstallationDate": "2022-09-16T00:00:00Z",
       "requiredMinimumOSVersion": "13.1",
       "targetedOSVersionsRule": "default"
     }
