@@ -393,7 +393,7 @@
                     "type": "string",
                     "options": {
                       "inputAttributes": {
-                        "placeholder": "11.5.2"
+                        "placeholder": "13.1"
                       }
                     }
                   }
@@ -493,7 +493,7 @@
                 },
                 {
                   "title": "Configured",
-                  "default": 1000000,
+                  "default": 5,
                   "type": "integer",
                   "options": {
                     "inputAttributes": {
@@ -512,11 +512,11 @@
                 },
                 {
                   "title": "Configured",
-                  "default": 14,
+                  "default": 5,
                   "type": "integer",
                   "options": {
                     "inputAttributes": {
-                      "placeholder": "14"
+                      "placeholder": "5"
                     }
                   }
                 }
